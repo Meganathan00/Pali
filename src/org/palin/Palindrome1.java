@@ -20,7 +20,7 @@ public class Palindrome1 {
 		{
 			System.out.println("Not a Palindrome number");
 		}
-		System.out.println("Developed By Mega");
+		System.out.println("Developed By Lavan");
 
 	}
 }
